@@ -8,10 +8,12 @@
     * Tangiers
     * Satyr
     * Darkside
+
  2. Средняя крепость
     * Must Have
     * Element Вода
     * Darkside Shot
+    
  3. Легкая крепость
     * Adalya
     * Fakher
