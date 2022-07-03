@@ -62,6 +62,12 @@
 
 > This is a blockquote. It is usually rendered indented and with a different background color.
 
+## Работа с удаленным репозиторием
+1. git pull - подтянем и сольем из GitHub
+2. git clone - скопируем к себе в локальный репозиторий
+3. git push - отправим в свой аккакунт GitHub с локальеого репозитория
+4. fork - это ответвление
+
 
 ## Заключение
 **Нужно добавить сейчас!**
